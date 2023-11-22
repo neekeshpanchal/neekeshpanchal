@@ -3,6 +3,7 @@
 🔭 I’m currently working on developing machine learning interfaces for purposes such as multi-animal tracking, business proficiency, and quantitative financial modelling. 
 
 **Education 🧠**
+
 Psychology, Neuroscience, and Computer Science @ Wilfrid Laurier University
 
 **Employment 🖥️**
