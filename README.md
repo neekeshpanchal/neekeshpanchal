@@ -8,7 +8,7 @@ Psychology, Neuroscience, and Computer Science @ Wilfrid Laurier University
 
 **Employment 🖥️**
 
-AI / Business Systems Analyst @ CIBC Capital Markets (May 2024 - December 2024) - Leading an AI team towards furthering functionality of firstGPT
+AI / Business Systems Analyst @ CIBC Capital Markets (May 2024 - December 2024) - Leading an AI team towards furthering functionality of firstGPT. Contributing to financial development and handling large amounts of trade data 
 
 Machine Vision Engineer @ NinSEL Lab, Wilfrid Laurier University (September 2023 ->) - Developing multi-animal tracking software from scratch applying advanced machine vision techniques.
 
