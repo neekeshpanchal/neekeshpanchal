@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Neek Panchal
 
-🔭 I’m currently working on developing machine learning interfaces for purposes such as multi-animal tracking, business proficiency, and quantitative financial modelling. 
+🔭 I’m currently learning about computational practices and how they can be applied towards research in quantitative finance, neuroscience, and quantum mechanics. 
 
 **Education 🧠**
 
