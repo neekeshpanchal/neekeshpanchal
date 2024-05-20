@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **my pets are my best friends: (A Murphy's Patternless Leopard Gecko {BEL}, GFP Albino Axolotl {LUNA}, and Goldendoodle {SPYRO})**
 
+- 🏆 Achievements: [Deans Honour Roll](https://www.wlu.ca/academics/faculties/faculty-of-science/assets/resources/faculty-of-science-deans-honour-roll-2021-22.html)
+
 <table align="center">
   <tr>
     <td><img src="https://github.com/neekeshpanchal/neekeshpanchal/assets/80868396/f2444238-dee7-498f-a735-f62df8c82a1d" alt="Image 1" width="300"/></td>
