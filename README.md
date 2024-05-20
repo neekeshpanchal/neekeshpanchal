@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neekeshpanchal" alt="neekeshpanchal" /></a> </p>
 
-**I’m currently working on**
-[DIPLOMAT (Deep learning-based Identity Preserving Labeled-Object Multi-Animal Tracking)](https://github.com/TravisWheelerLab/DIPLOMAT)
+- 🔭 I’m currently working on [DIPLOMAT (Deep learning-based Identity Preserving Labeled-Object Multi-Animal Tracking)](https://github.com/TravisWheelerLab/DIPLOMAT)
 
-**I’m currently learning**
-stochastic calculus, dimensionality reduction, computational neuroscience, and signal processing
+- 🌱 I’m currently learning **stochastic calculus, dimensionality reduction, computational neuroscience, and signal processing**
 
-**I'm passionate about**
-reverse engineering biological processes into functional computer interfaces
+- 💬 I'm passionate about **reverse engineering biological processes into functional computer interfaces**
 
-**Fun fact**
-my pets are my best friends: (A Murphy's Patternless Leopard Gecko {BEL}, GFP Albino Axolotl {LUNA}, and Goldendoodle {SPYRO})
+- ⚡ Fun fact **my pets are my best friends: (A Murphy's Patternless Leopard Gecko {BEL}, GFP Albino Axolotl {LUNA}, and Goldendoodle {SPYRO})**
 
 <table align="center">
   <tr>
