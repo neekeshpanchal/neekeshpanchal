@@ -11,7 +11,7 @@ Psychology, Neuroscience, and Computer Science @ Wilfrid Laurier University
 
 Software Developer & Business Systems Analyst @ CIBC Capital Markets (May 2024 - December 2024) - Leading a team towards furthering functionality of firstGPT.  Handling large amounts of trade data 
 
-Machine Learning Engineer @ NinSEL Lab, Wilfrid Laurier University (September 2023 ->) - Developing multi-animal tracking software from scratch applying advanced machine vision techniques.
+Machine Learning Engineer @ NinSEL Lab, Wilfrid Laurier University (September 2023 ->) - Developing multi-animal tracking software, applying advanced machine vision techniques.
 
 Software Developer & Business Systems Analyst @ CIBC Capital Markets (January 2023 - September 2023) - Founded and developed a large language model from scratch and laid the foundation for future development.
 
