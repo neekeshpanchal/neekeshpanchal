@@ -13,9 +13,13 @@
 
 - ⚡ Fun fact **My pets are my best friends: (A Murphy's Patternless Leopard Gecko {BEL}, GFP Albino Axolotl {LUNA}, and Goldendoodle {SPYRO})**
 
-![image](https://github.com/neekeshpanchal/neekeshpanchal/assets/80868396/f2444238-dee7-498f-a735-f62df8c82a1d)
-![image](https://github.com/neekeshpanchal/neekeshpanchal/assets/80868396/896b5841-c51a-423d-b0cf-b3dd32ac7d51)
-![image](https://github.com/neekeshpanchal/neekeshpanchal/assets/80868396/f2441081-d4be-4ac0-b8b2-cb9ef741751a)
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/neekeshpanchal/neekeshpanchal/assets/80868396/f2444238-dee7-498f-a735-f62df8c82a1d" alt="Image 1" width="300"/></td>
+    <td><img src="https://github.com/neekeshpanchal/neekeshpanchal/assets/80868396/896b5841-c51a-423d-b0cf-b3dd32ac7d51" alt="Image 2" width="300"/></td>
+    <td><img src="https://github.com/neekeshpanchal/neekeshpanchal/assets/80868396/f2441081-d4be-4ac0-b8b2-cb9ef741751a" alt="Image 3" width="300"/></td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
