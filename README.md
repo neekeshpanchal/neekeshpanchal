@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Neek Panchal
+### Hi there 👋 My name is Neekesh (Neek) Panchal
+🌍  Toronto
 
 🔭 I’m currently learning about computational practices and how they can be applied towards research in quantitative finance, neuroscience, and quantum mechanics. 
 
@@ -14,6 +15,6 @@ Machine Learning Engineer @ NinSEL Lab, Wilfrid Laurier University (September 20
 
 Software Developer & Business Systems Analyst @ CIBC Capital Markets (January 2023 - September 2023) - Founded and developed a large language model from scratch and laid the foundation for future development.
 
-*   🌍  Toronto
+
 
 
