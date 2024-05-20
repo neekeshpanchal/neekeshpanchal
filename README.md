@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **stochastic calculus, dimensionality reduction, computational neuroscience, and signal processing**
 
 - 💬 I'm passionate about **reverse engineering biological processes into functional computer interfaces**
+  
+- 🖥️ I'm primarily a **Python** developer, but have applied several programming languages and tools in a professional setting
 
 - ⚡ Fun fact **my pets are my best friends: (A Murphy's Patternless Leopard Gecko {BEL}, GFP Albino Axolotl {LUNA}, and Goldendoodle {SPYRO})**
 
