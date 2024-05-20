@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Neekesh (Neek) Panchal</h1>
+<h1 align="center">Neekesh (Neek) Panchal</h1>
 <h3 align="center">Recent graduate who enjoys applying computational methods towards research in systems neuroscience, computer vision, financial mathematics, and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neekeshpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="neekeshpanchal" /> </p>
